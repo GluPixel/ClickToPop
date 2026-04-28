@@ -1,1 +1,5 @@
-When you push a tag to GitHub, the contents of this file will become your release message
+- Click any bloon to pop it by left-clicking near it
+- Works on all bloon types including MOABs, BFBs and ZOMGs
+- Works anywhere on the map
+- Earn cash per pop (configurable in Mod Settings)
+- Toggle on/off and adjust click radius in Mod Settings
